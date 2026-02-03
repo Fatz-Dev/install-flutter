@@ -236,3 +236,8 @@ Jika ingin:
 * Dokumentasi versi PDF / laporan kampus
 
 👉 Tinggal bilang 👍
+
+
+
+link [https://docs.flutter.dev/install/manual](https://docs.flutter.dev/install/manual)
+link [https://docs.flutter.dev/install/manual](https://www.codepolitan.com/blog/tutorial-flutter-cara-mudah-membuat-aplikasi-android-dengan-satu-basis-kode/)
