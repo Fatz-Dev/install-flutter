@@ -241,3 +241,9 @@ Jika ingin:
 
 link [https://docs.flutter.dev/install/manual](https://docs.flutter.dev/install/manual)
 link [https://docs.flutter.dev/install/manual](https://www.codepolitan.com/blog/tutorial-flutter-cara-mudah-membuat-aplikasi-android-dengan-satu-basis-kode/)
+link [https://medium.com/@sharathhebbar24/how-to-run-flutter-without-android-studio-b3b5c2c6a97a](https://medium.com/@sharathhebbar24/how-to-run-flutter-without-android-studio-b3b5c2c6a97a)
+link [https://www.jagoanhosting.com/blog/install-flutter/](https://www.jagoanhosting.com/blog/install-flutter/)
+link [https://dibimbing.id/blog/detail/cara-install-flutter-di-vs-code](https://dibimbing.id/blog/detail/cara-install-flutter-di-vs-code)
+link [https://mailharshkhatri.medium.com/flutter-setup-on-linux-tips-for-a-smooth-start-f1e93b91a3fe](https://mailharshkhatri.medium.com/flutter-setup-on-linux-tips-for-a-smooth-start-f1e93b91a3fe)
+link [https://www.geeksforgeeks.org/installation-guide/how-to-install-flutter-on-visual-studio-code/](https://www.geeksforgeeks.org/installation-guide/how-to-install-flutter-on-visual-studio-code/)
+link [https://www.zeepalm.com/blog/build-flutter-app-from-scratch-a-beginners-guide](https://www.zeepalm.com/blog/build-flutter-app-from-scratch-a-beginners-guide)
